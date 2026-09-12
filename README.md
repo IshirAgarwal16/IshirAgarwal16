@@ -31,7 +31,6 @@
 
 ### ✍️ Fun Section
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- Snake Game Repo View -->
 ### 🐍 Contribution Graph
 <p align="center">
@@ -39,7 +38,5 @@
 </p>
 
 ---
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 🚀 Always curious, always learning, always building....! 
