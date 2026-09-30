@@ -17,7 +17,6 @@
 ![](https://streak-stats.demolab.com/?user=IshirAgarwal16&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=IshirAgarwal16&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ## 🚀 Featured Projects  
 - 🎵 **Spotify Clone** – Music Streaming Web Application
 - 👁️ **Diabetic Retinopathy Screening** – AI-Based Retinal Image Screening  
