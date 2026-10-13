@@ -19,7 +19,7 @@
 
 
 ## 🚀 Featured Projects  
-- 🎵 **Spotify Clone** – Music Streaming Web Application.
+- 🎵 **Spotify Clone** – Music Streaming Web Application
 - 👁️ **Diabetic Retinopathy Screening** – AI-Based Retinal Image Screening  
 
 ## 🌐 Connect With Me:
